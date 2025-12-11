@@ -1,4 +1,4 @@
-# HARMONI-HELM-ME 🧠
+# HARMONI
 
 **H**ierarchical **A**ttentive **R**epresentation for **M**ulti-expert **O**bservation of **N**eurological **I**mpairments - **H**ierarchical **E**ncoder with **L**earned **M**ulti-**E**xpert fusion
 
